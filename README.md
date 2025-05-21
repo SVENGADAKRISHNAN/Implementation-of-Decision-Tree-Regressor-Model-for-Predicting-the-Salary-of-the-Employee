@@ -89,10 +89,11 @@ r2
 ![image](https://github.com/user-attachments/assets/ccb6f091-2814-4531-9366-18133a4d8e15)
 ```
 dt.predict([[5,6]])
-print("Sabeeha Shaik")
-print(212223230176)
+print("VENGADA KRISHNAN")
+print(212223110061)
 ```
-![image](https://github.com/user-attachments/assets/8b234163-e2bd-4c84-a798-4923a2ea5379)
+![image](https://github.com/user-attachments/assets/dd935d0e-2fb2-4715-9a7a-1e731568d81d)
+
 
 
 ## Result:
